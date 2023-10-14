@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++ Projects\Binary Search\Binary Search\main.cpp(9,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Binary Search.vcxproj -> D:\C++ Projects\Binary Search\x64\Debug\Binary Search.exe
